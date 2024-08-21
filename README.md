@@ -1,4 +1,4 @@
-# Implementing-a-Scalable-CI-CD-Pipeline-for-Microservices-on-AWS
+# Implementing a Scalable CI/CD Pipeline for Microservices on AWS
 
 **Introduction:**
 In modern software development, Continuous Integration and Continuous Deployment (CI/CD) pipelines are essential for ensuring rapid, reliable delivery of software. This guide will demonstrate how to implement a scalable CI/CD pipeline for microservices on AWS, aligned with our project's goal to enhance deployment efficiency and maintain high availability.
